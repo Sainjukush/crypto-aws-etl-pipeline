@@ -25,6 +25,7 @@ build/
 athena-results/
 raw/
 transformed/
+gold/
 
 
 *.log
